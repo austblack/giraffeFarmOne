@@ -1,0 +1,4 @@
+com\objects\Recipe.class
+com\config\GfOne2Application.class
+com\gf\HomeController.class
+com\config\WebConfig.class
