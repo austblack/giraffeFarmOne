@@ -2,16 +2,13 @@ package com.domain;
 
 
 
-import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.List;
 import java.util.Map;
 
 /**
  * Created by ablackmo on 8/20/2016.
- */
-@Document(collection = "recipes")
-public class Recipe {
+ */public class Recipe {
 
 
     private long id;
