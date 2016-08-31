@@ -10,6 +10,7 @@ import java.util.Map;
  * Created by ablackmo on 8/20/2016.
  */public class Recipe {
 
+     private int test;
 
     private long id;
 
