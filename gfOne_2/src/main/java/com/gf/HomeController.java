@@ -1,8 +1,6 @@
 package com.gf;
 
-import com.objects.Recipe;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.ModelMap;
+import com.domain.Recipe;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
